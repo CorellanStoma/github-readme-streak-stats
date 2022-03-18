@@ -74,7 +74,7 @@ body {
   padding: 25px;
   padding-top: 0;
   border: 1px solid var(--border);
-  border-radius: 6px;
+  border-radius: 12px;
 }
 
 @media only screen and (max-width: 1024px) {
